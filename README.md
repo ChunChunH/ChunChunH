@@ -1,6 +1,6 @@
 ## Hi I'm **` Agustina Heredia `** - ChunChunH 👋
 
-My name is Agustina and I work as a **frontend developer** for **Heredia Estudio**, a software factory of my family, I have worked with interesting projects such as a **digital school**, **international shipping software** and **web development** for various companies, I have also done some work in the field of **illustration** and **interface design**
+
 
 ---
 <div>
